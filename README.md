@@ -33,6 +33,18 @@ A React web app to build your dream cricket team from the world's best players.
 
 3. **Open** [http://localhost:3000](http://localhost:3000) in your browser.
 
+---
+
+### Deploying to Render.com or similar
+
+If your project root contains the `frontend` folder, set these in your Render.com (or similar) dashboard:
+
+- **Build command:** `cd frontend && npm install && npm run build`
+- **Start command:** `cd frontend && npm start` (for preview)  
+  For static hosting, use the output in `frontend/build`.
+
+Make sure your project root is the main repo folder, not `frontend/`.
+
 ## Project Structure
 
 ```
