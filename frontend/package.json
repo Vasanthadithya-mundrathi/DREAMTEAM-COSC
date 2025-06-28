@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "serve": "^14.2.0",
     "axios": "^1.8.4",
     "cra-template": "1.2.0",
     "react": "^19.0.0",
@@ -11,7 +12,7 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-    "start": "craco start",
+    "start": "serve -s build -l $PORT",
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
