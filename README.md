@@ -39,9 +39,14 @@ A React web app to build your dream cricket team from the world's best players.
 
 If your project root contains the `frontend` folder, set these in your Render.com (or similar) dashboard:
 
-- **Build command:** `cd frontend && npm install && npm run build`
-- **Start command:** `cd frontend && npm start` (for preview)  
-  For static hosting, use the output in `frontend/build`.
+- **Build command:**  
+  ```
+  cd frontend && npm install && npm run build
+  ```
+- **Start command:**  
+  ```
+  cd frontend && npx serve -s build -l $PORT
+  ```
 
 Make sure your project root is the main repo folder, not `frontend/`.
 
