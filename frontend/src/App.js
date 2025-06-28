@@ -23,6 +23,9 @@ function App() {
         average: 52.79,
         strikeRate: 92.54,
         centuries: 43,
+        wickets: 0,
+        economy: "-",
+        dismissals: 0,
         bestPerformance: "183 vs Pakistan"
       }
     },
@@ -39,6 +42,9 @@ function App() {
         average: 54.57,
         strikeRate: 89.34,
         centuries: 19,
+        wickets: 0,
+        economy: "-",
+        dismissals: 0,
         bestPerformance: "158 vs England"
       }
     },
@@ -55,6 +61,9 @@ function App() {
         average: 60.19,
         strikeRate: 87.65,
         centuries: 31,
+        wickets: 0,
+        economy: "-",
+        dismissals: 0,
         bestPerformance: "215* vs England"
       }
     },
@@ -70,7 +79,10 @@ function App() {
         runs: 5061,
         average: 35.89,
         strikeRate: 92.18,
+        centuries: 0,
         wickets: 199,
+        economy: "-",
+        dismissals: 0,
         bestPerformance: "258 vs South Africa"
       }
     },
@@ -86,6 +98,9 @@ function App() {
         runs: 10773,
         average: 50.57,
         strikeRate: 87.56,
+        centuries: 0,
+        wickets: 0,
+        economy: "-",
         dismissals: 444,
         bestPerformance: "183* vs Sri Lanka"
       }
@@ -103,6 +118,9 @@ function App() {
         average: 47.83,
         strikeRate: 84.48,
         centuries: 24,
+        wickets: 0,
+        economy: "-",
+        dismissals: 0,
         bestPerformance: "251 vs West Indies"
       }
     },
@@ -118,6 +136,9 @@ function App() {
         runs: 4120,
         average: 41.61,
         strikeRate: 118.55,
+        centuries: 0,
+        wickets: 0,
+        economy: "-",
         dismissals: 181,
         bestPerformance: "162* vs Pakistan"
       }
@@ -135,6 +156,9 @@ function App() {
         average: 44.92,
         strikeRate: 95.29,
         centuries: 18,
+        wickets: 0,
+        economy: "-",
+        dismissals: 0,
         bestPerformance: "335* vs Pakistan"
       }
     },
@@ -147,10 +171,13 @@ function App() {
       image: "/players/kagiso-rabada.png",
       stats: {
         matches: 65,
-        wickets: 281,
+        runs: 0,
         average: 22.48,
-        economy: 3.27,
         strikeRate: 41.2,
+        centuries: 0,
+        wickets: 281,
+        economy: 3.27,
+        dismissals: 0,
         bestPerformance: "7/112 vs England"
       }
     },
@@ -166,6 +193,9 @@ function App() {
         runs: 5424,
         average: 44.26,
         strikeRate: 88.83,
+        centuries: 0,
+        wickets: 0,
+        economy: "-",
         dismissals: 238,
         bestPerformance: "178 vs Bangladesh"
       }
@@ -182,7 +212,10 @@ function App() {
         runs: 6323,
         average: 38.29,
         strikeRate: 82.47,
+        centuries: 0,
         wickets: 310,
+        economy: "-",
+        dismissals: 0,
         bestPerformance: "217 vs New Zealand"
       }
     },
@@ -195,10 +228,13 @@ function App() {
       image: "/players/jasprit-bumrah.jpg",
       stats: {
         matches: 36,
-        wickets: 159,
+        runs: 0,
         average: 20.06,
-        economy: 2.68,
         strikeRate: 44.8,
+        centuries: 0,
+        wickets: 159,
+        economy: 2.68,
+        dismissals: 0,
         bestPerformance: "6/33 vs West Indies"
       }
     },
@@ -211,10 +247,13 @@ function App() {
       image: "/players/pat-cummins.jpg",
       stats: {
         matches: 57,
-        wickets: 269,
+        runs: 0,
         average: 21.59,
-        economy: 2.90,
         strikeRate: 44.6,
+        centuries: 0,
+        wickets: 269,
+        economy: 2.90,
+        dismissals: 0,
         bestPerformance: "6/23 vs Sri Lanka"
       }
     },
@@ -227,10 +266,13 @@ function App() {
       image: "/players/rashid-khan.jpg",
       stats: {
         matches: 89,
-        wickets: 162,
+        runs: 0,
         average: 20.94,
-        economy: 3.91,
         strikeRate: 32.1,
+        centuries: 0,
+        wickets: 162,
+        economy: 3.91,
+        dismissals: 0,
         bestPerformance: "7/18 vs West Indies"
       }
     },
@@ -243,10 +285,13 @@ function App() {
       image: "/players/trent-boult.jpg",
       stats: {
         matches: 117,
-        wickets: 317,
+        runs: 0,
         average: 27.49,
-        economy: 4.85,
         strikeRate: 34.0,
+        centuries: 0,
+        wickets: 317,
+        economy: 4.85,
+        dismissals: 0,
         bestPerformance: "7/34 vs West Indies"
       }
     },
@@ -262,7 +307,10 @@ function App() {
         runs: 1386,
         average: 33.02,
         strikeRate: 113.91,
+        centuries: 0,
         wickets: 42,
+        economy: "-",
+        dismissals: 0,
         bestPerformance: "92* vs England"
       }
     },
@@ -278,6 +326,9 @@ function App() {
         runs: 2111,
         average: 45.89,
         strikeRate: 84.21,
+        centuries: 0,
+        wickets: 0,
+        economy: "-",
         dismissals: 67,
         bestPerformance: "199 vs England"
       }
@@ -294,7 +345,10 @@ function App() {
         runs: 2706,
         average: 33.05,
         strikeRate: 124.74,
+        centuries: 0,
         wickets: 53,
+        economy: "-",
+        dismissals: 0,
         bestPerformance: "201* vs Afghanistan"
       }
     },
@@ -311,6 +365,9 @@ function App() {
         average: 46.23,
         strikeRate: 88.90,
         centuries: 31,
+        wickets: 0,
+        economy: "-",
+        dismissals: 0,
         bestPerformance: "264 vs Sri Lanka"
       }
     },
@@ -323,10 +380,13 @@ function App() {
       image: "/players/shaheen-afridi.jpg",
       stats: {
         matches: 46,
-        wickets: 112,
+        runs: 0,
         average: 25.32,
-        economy: 4.55,
         strikeRate: 33.4,
+        centuries: 0,
+        wickets: 112,
+        economy: 4.55,
+        dismissals: 0,
         bestPerformance: "6/35 vs Bangladesh"
       }
     },
@@ -343,6 +403,9 @@ function App() {
         average: 49.24,
         strikeRate: 86.93,
         centuries: 31,
+        wickets: 0,
+        economy: "-",
+        dismissals: 0,
         bestPerformance: "254 vs Pakistan"
       }
     }
@@ -390,6 +453,7 @@ function App() {
   // Player Selection Step
   if (currentStep === 'selection') {
     return (
+      <>
       <div className="min-h-screen bg-gradient-to-br from-blue-900 via-blue-800 to-indigo-900 p-4">
         <div className="container mx-auto">
           {/* Header */}
@@ -488,12 +552,104 @@ function App() {
           </div>
         </div>
       </div>
+      {modalPlayer && (
+        <div className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center p-4 z-50">
+          <div className="bg-white bg-opacity-10 backdrop-blur-lg rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto border border-white border-opacity-20">
+            <div className="p-8">
+              <div className="flex justify-between items-start mb-6">
+                <div className="flex items-center">
+                  <img
+                    src={modalPlayer.image}
+                    alt={modalPlayer.name}
+                    className="w-20 h-20 rounded-full border-4 border-yellow-400 mr-6 object-cover"
+                  />
+                  <div>
+                    <h2 className="text-3xl font-bold text-white mb-2">{modalPlayer.name}</h2>
+                    <p className="text-yellow-400 font-semibold text-lg">{modalPlayer.role}</p>
+                    <p className="text-blue-200">{modalPlayer.country}</p>
+                  </div>
+                </div>
+                <button
+                  onClick={closeModal}
+                  className="text-white hover:text-yellow-400 text-2xl font-bold transition-colors"
+                >
+                  ×
+                </button>
+              </div>
+
+              <div className="grid grid-cols-2 gap-6 mb-6">
+                <div className="bg-white bg-opacity-10 rounded-lg p-4 border border-white border-opacity-20">
+                  <h4 className="text-yellow-300 font-semibold mb-2">Jersey Number</h4>
+                  <p className="text-3xl font-bold text-white">{modalPlayer.jerseyNumber}</p>
+                </div>
+                <div className="bg-white bg-opacity-10 rounded-lg p-4 border border-white border-opacity-20">
+                  <h4 className="text-yellow-300 font-semibold mb-2">Matches Played</h4>
+                  <p className="text-3xl font-bold text-white">{modalPlayer.stats.matches}</p>
+                </div>
+              </div>
+
+              <div className="space-y-4">
+                <div className="bg-white bg-opacity-10 rounded-lg p-4 border border-white border-opacity-20">
+                  <h4 className="text-yellow-300 font-semibold mb-3">Career Statistics</h4>
+                  <div className="grid grid-cols-2 gap-4">
+                    {modalPlayer.stats.runs && (
+                      <>
+                        <div>
+                          <p className="text-blue-200 text-sm">Total Runs</p>
+                          <p className="text-xl font-bold text-white">{modalPlayer.stats.runs}</p>
+                        </div>
+                        <div>
+                          <p className="text-blue-200 text-sm">Average</p>
+                          <p className="text-xl font-bold text-white">{modalPlayer.stats.average}</p>
+                        </div>
+                        <div>
+                          <p className="text-blue-200 text-sm">Strike Rate</p>
+                          <p className="text-xl font-bold text-white">{modalPlayer.stats.strikeRate}</p>
+                        </div>
+                        <div>
+                          <p className="text-blue-200 text-sm">Centuries</p>
+                          <p className="text-xl font-bold text-white">{modalPlayer.stats.centuries}</p>
+                        </div>
+                      </>
+                    )}
+                    {modalPlayer.stats.wickets && (
+                      <>
+                        <div>
+                          <p className="text-blue-200 text-sm">Wickets</p>
+                          <p className="text-xl font-bold text-white">{modalPlayer.stats.wickets}</p>
+                        </div>
+                        <div>
+                          <p className="text-blue-200 text-sm">Economy Rate</p>
+                          <p className="text-xl font-bold text-white">{modalPlayer.stats.economy}</p>
+                        </div>
+                      </>
+                    )}
+                    {modalPlayer.stats.dismissals && (
+                      <div>
+                        <p className="text-blue-200 text-sm">Dismissals</p>
+                        <p className="text-xl font-bold text-white">{modalPlayer.stats.dismissals}</p>
+                      </div>
+                    )}
+                  </div>
+                </div>
+
+                <div className="bg-gradient-to-r from-yellow-400 to-orange-500 rounded-lg p-4">
+                  <h4 className="text-blue-900 font-bold mb-2">🏆 Best Performance</h4>
+                  <p className="text-blue-900 font-semibold text-lg">{modalPlayer.stats.bestPerformance}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+      </>
     );
   }
 
   // Team Customization Step
   if (currentStep === 'customization') {
     return (
+      <>
       <div className="min-h-screen bg-gradient-to-br from-blue-900 via-blue-800 to-indigo-900 p-4">
         <div className="container mx-auto max-w-4xl">
           <div className="text-center mb-8 pt-8">
@@ -572,6 +728,97 @@ function App() {
           </div>
         </div>
       </div>
+      {modalPlayer && (
+        <div className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center p-4 z-50">
+          <div className="bg-white bg-opacity-10 backdrop-blur-lg rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto border border-white border-opacity-20">
+            <div className="p-8">
+              <div className="flex justify-between items-start mb-6">
+                <div className="flex items-center">
+                  <img
+                    src={modalPlayer.image}
+                    alt={modalPlayer.name}
+                    className="w-20 h-20 rounded-full border-4 border-yellow-400 mr-6 object-cover"
+                  />
+                  <div>
+                    <h2 className="text-3xl font-bold text-white mb-2">{modalPlayer.name}</h2>
+                    <p className="text-yellow-400 font-semibold text-lg">{modalPlayer.role}</p>
+                    <p className="text-blue-200">{modalPlayer.country}</p>
+                  </div>
+                </div>
+                <button
+                  onClick={closeModal}
+                  className="text-white hover:text-yellow-400 text-2xl font-bold transition-colors"
+                >
+                  ×
+                </button>
+              </div>
+
+              <div className="grid grid-cols-2 gap-6 mb-6">
+                <div className="bg-white bg-opacity-10 rounded-lg p-4 border border-white border-opacity-20">
+                  <h4 className="text-yellow-300 font-semibold mb-2">Jersey Number</h4>
+                  <p className="text-3xl font-bold text-white">{modalPlayer.jerseyNumber}</p>
+                </div>
+                <div className="bg-white bg-opacity-10 rounded-lg p-4 border border-white border-opacity-20">
+                  <h4 className="text-yellow-300 font-semibold mb-2">Matches Played</h4>
+                  <p className="text-3xl font-bold text-white">{modalPlayer.stats.matches}</p>
+                </div>
+              </div>
+
+              <div className="space-y-4">
+                <div className="bg-white bg-opacity-10 rounded-lg p-4 border border-white border-opacity-20">
+                  <h4 className="text-yellow-300 font-semibold mb-3">Career Statistics</h4>
+                  <div className="grid grid-cols-2 gap-4">
+                    {modalPlayer.stats.runs && (
+                      <>
+                        <div>
+                          <p className="text-blue-200 text-sm">Total Runs</p>
+                          <p className="text-xl font-bold text-white">{modalPlayer.stats.runs}</p>
+                        </div>
+                        <div>
+                          <p className="text-blue-200 text-sm">Average</p>
+                          <p className="text-xl font-bold text-white">{modalPlayer.stats.average}</p>
+                        </div>
+                        <div>
+                          <p className="text-blue-200 text-sm">Strike Rate</p>
+                          <p className="text-xl font-bold text-white">{modalPlayer.stats.strikeRate}</p>
+                        </div>
+                        <div>
+                          <p className="text-blue-200 text-sm">Centuries</p>
+                          <p className="text-xl font-bold text-white">{modalPlayer.stats.centuries}</p>
+                        </div>
+                      </>
+                    )}
+                    {modalPlayer.stats.wickets && (
+                      <>
+                        <div>
+                          <p className="text-blue-200 text-sm">Wickets</p>
+                          <p className="text-xl font-bold text-white">{modalPlayer.stats.wickets}</p>
+                        </div>
+                        <div>
+                          <p className="text-blue-200 text-sm">Economy Rate</p>
+                          <p className="text-xl font-bold text-white">{modalPlayer.stats.economy}</p>
+                        </div>
+                      </>
+                    )}
+                    {modalPlayer.stats.dismissals && (
+                      <div>
+                        <p className="text-blue-200 text-sm">Dismissals</p>
+                        <p className="text-xl font-bold text-white">{modalPlayer.stats.dismissals}</p>
+                      </div>
+                    )}
+                  </div>
+                </div>
+
+                <div className="bg-gradient-to-r from-yellow-400 to-orange-500 rounded-lg p-4">
+                  <h4 className="text-blue-900 font-bold mb-2">🏆 Best Performance</h4>
+                  <p className="text-blue-900 font-semibold text-lg">{modalPlayer.stats.bestPerformance}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+      </>
     );
   }
 
